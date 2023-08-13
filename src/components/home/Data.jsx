@@ -4,7 +4,7 @@ const Data = () => {
     return (
         <div className="home__data">
             <h1 className="home__title">
-                Jacob Gijjah
+                Hemedi Ayubu
                 {/* <i className="home__hand" class="uil uil-spinner"></i> */}
             </h1>
 

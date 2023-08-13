@@ -17,7 +17,7 @@ const App = () => {
       <React.Fragment>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>jacobgijjah</title>
+          <title>Hemedi@96</title>
           <link rel="canonical" href="http://mysite.com/example" />
           <meta name="description" content="Software developer" />
         </Helmet>

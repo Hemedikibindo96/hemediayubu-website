@@ -53,7 +53,7 @@ const Qualification = () => {
                     >
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">BSC. Information Systems</h3>
+                                <h3 className="qualification__title">BSC. Computer Science</h3>
                                 <span className="qualification__subtitle">University Of Dodoma</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
@@ -87,11 +87,11 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Certificate in ICT</h3>
-                                <span className="qualification__subtitle">University Of Dodoma</span>
+                                <h3 className="qualification__title">ACSEE</h3>
+                                <span className="qualification__subtitle">Tambaza Secondary School</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
-                                        2016 - 2017
+                                        2015 - 2017
                                 </div>
                             </div>
 
@@ -111,7 +111,7 @@ const Qualification = () => {
 
                             <div>
                                 <h3 className="qualification__title">CSEE</h3>
-                                <span className="qualification__subtitle">Mbeya Secondary</span>
+                                <span className="qualification__subtitle">Ilala Islamic Secondary</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
                                         2011 - 2014
@@ -152,8 +152,8 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Predictive Modelling</h3>
-                                <span className="qualification__subtitle">University Of Dodoma</span>
+                                <h3 className="qualification__title">Cybersecurity</h3>
+                                <span className="qualification__subtitle">TCRA</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
                                         2023 - Present
