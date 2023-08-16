@@ -23,21 +23,21 @@ export const Footer = () => {
 
                 <div className="footer__social">
                     <a 
-                        href="https://www.instagram.com/jacobgijjah"
+                        href="https://www.instagram.com/kibindohemedy"
                         className="footer__social-link" 
                         target="_blank"
                     >
                         <i className="bx bxl-instagram"></i>
                     </a>
                     <a
-                        href="https://wa.link/zre58y"
+                        href="https://wa.link/3wklcb"
                         className="footer__social-link"
                         target="_blank"
                     >
                         <i className="bx bxl-whatsapp"></i>
                     </a>
                     <a
-                        href="https://twitter.com/gijjah_jacob"
+                        href="https://twitter.com/hemediayubu7"
                         className="footer__social-link"
                         target="_blank"
                     >
